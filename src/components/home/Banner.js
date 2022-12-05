@@ -6,7 +6,7 @@ export default function Example() {
           <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 sm:static">
             <div className="sm:max-w-lg">
               <h1 className="text-4xl font font-extrabold tracking-tight text-gray-900 sm:text-6xl">
-                Los últimos estilos de verano están aquí
+                Los últimos estilos de verano están aquí!
               </h1>
               <p className="mt-4 text-xl text-gray-500">
                 Este año, traemos nuestra nueva colección para el verano, 
@@ -81,7 +81,7 @@ export default function Example() {
                 </div>
   
                 <a
-                  href="#"
+                  href="/shop"
                   className="inline-block text-center bg-aesi border border-transparent rounded-md py-3 px-8 font-medium text-white hover:bg-hovercolor"
                 >
                   Buscar en Tienda

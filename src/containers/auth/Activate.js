@@ -5,14 +5,14 @@ import { connect } from 'react-redux'
 import { activate } from '../../redux/actions/auth'
 import { Navigate } from 'react-router'
 
-import Loader from 'react-loader-spinner'
+import {Loader} from 'react-loader-spinner'
 
 const Activate = ({
   activate,
   loading
 }) =>{
     const params = useParams()
-    const [activated, setActivated] = useState(false);
+    const [activated, setActivated] = useState(true);
 
     const activate_account = () => {
       const uid = params.uid

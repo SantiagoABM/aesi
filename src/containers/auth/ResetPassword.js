@@ -41,7 +41,7 @@ const ResetPassword = ({
         <div className="sm:mx-auto sm:w-full sm:max-w-md">
           <img
             className="mx-auto h-12 w-auto"
-            src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
+            src="https://www.eluniverso.com/resizer/HnNgR5g4KINTaXU-RmKez6LWsbI=/536x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/CMX5WI3EBZGD7DVLS2MOD3VJRI.webp"
             alt="Workflow"
           />
           <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">Recover you password</h2>

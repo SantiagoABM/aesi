@@ -43,7 +43,7 @@ const Login = ({
         <div className="sm:mx-auto sm:w-full sm:max-w-md">
           <img
             className="mx-auto h-12 w-auto"
-            src="https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/315613929_124194340475296_2885765080250290538_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=ZHh5s9qohGUAX_UdfN5&_nc_ht=scontent-lim1-1.xx&oh=00_AfD4GkbdF0tGOC-1SqH_TNsT29OKh2UcN0ySF_UnPIWVaA&oe=637639D7"
+            src="https://www.eluniverso.com/resizer/HnNgR5g4KINTaXU-RmKez6LWsbI=/536x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/CMX5WI3EBZGD7DVLS2MOD3VJRI.webp"
             alt="Workflow"
           />
           <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">Ingresa a tu cuenta existente</h2>
@@ -61,7 +61,7 @@ const Login = ({
               <div>
                 <label htmlFor="email" className="block text-sm font-medium text-gray-700">
                   Correo Electrónico
-                </label>
+                </label> 
                 <div className="mt-1">
                   <input
                     name="email"
